@@ -1,0 +1,4 @@
+https://www.gameart2d.com/the-boy---free-sprites.html
+
+To convert the textures to Sprites:
+After placing the textures in the Sprites folder, I had to select them all and change the "Texture Type" to "Sprite (2D and UI)", then hit Apply at the bottom of the inspector window.
